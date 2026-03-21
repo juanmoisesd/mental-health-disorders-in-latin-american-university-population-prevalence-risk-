@@ -1,0 +1,46 @@
+{
+  "@context": "https://w3id.org/ro/crate/1.1/context",
+  "@graph": [
+    {
+      "@type": "CreativeWork",
+      "@id": "ro-crate-metadata.json",
+      "conformsTo": {
+        "@id": "https://w3id.org/ro/crate/1.1"
+      },
+      "about": {
+        "@id": "./"
+      }
+    },
+    {
+      "@type": [
+        "Dataset"
+      ],
+      "@id": "./",
+      "name": "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from ",
+      "description": "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from ",
+      "datePublished": "2026-03-20",
+      "license": {
+        "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "author": {
+        "@id": "https://orcid.org/0000-0002-8401-8018"
+      },
+      "url": "https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalence-risk-",
+      "keywords": "academic-stress, anxiety, cc0, dataset, depression, latin-america, mental-health, open-data, protective-variables, risk-factors, university-students, zenodo"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "name": "Juan Moisés de la Serna Tuya",
+      "affiliation": {
+        "@id": "https://ror.org/0063t5s24"
+      },
+      "email": "juanmoises.delaserna@unir.net"
+    },
+    {
+      "@type": "CreativeWork",
+      "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "name": "CC0 1.0 Universal"
+    }
+  ]
+}
