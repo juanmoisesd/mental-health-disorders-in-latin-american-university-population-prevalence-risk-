@@ -1,23 +1,21 @@
 cff-version: 1.2.0
-message: "Please cite this dataset using the metadata below."
+message: "If you use this software/dataset, please cite it as below."
 type: dataset
-title: "Mental Health Disorders in Latin American University Population: Prevalence, Risk Factors and Protective Variables — Statistical Database"
+title: "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from "
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
     orcid: "https://orcid.org/0000-0002-8401-8018"
     affiliation: "Universidad Internacional de La Rioja (UNIR)"
-doi: "10.5281/zenodo.18984594"
-url: "https://doi.org/10.5281/zenodo.18984594"
+    email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalence-risk-"
-license: CC0-1.0
-date-released: "2026-03-12"
+url: "https://juanmoisesd.github.io/mental-health-disorders-in-latin-american-university-population-prevalence-risk-/"
+abstract: "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from "
 keywords:
-  - "mental health"
-  - "university students"
-  - "Latin America"
-  - "depression"
-  - "anxiety"
-  - "academic stress"
-  - "risk factors"
-  - "protective variables"
+  - open-data
+  - dataset
+  - research
+  - science
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-03-20"
