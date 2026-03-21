@@ -1,26 +1,51 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Mental Health Disorders in Latin American University Population: Prevalence, Risk Factors and Protective Variables \u2014 Statistical Database",
-  "identifier": "10.5281/zenodo.18984594",
-  "url": "https://doi.org/10.5281/zenodo.18984594",
+  "@type": "SoftwareSourceCode",
+  "name": "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from ",
+  "description": "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from ",
+  "url": "https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalence-risk-",
+  "codeRepository": "https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalence-risk-",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
   "keywords": [
-    "mental health",
-    "university students",
-    "Latin America",
-    "depression",
+    "academic-stress",
     "anxiety",
-    "academic stress",
-    "risk factors",
-    "protective variables"
-  ]
+    "cc0",
+    "dataset",
+    "depression",
+    "latin-america",
+    "mental-health",
+    "open-data",
+    "protective-variables",
+    "risk-factors",
+    "university-students",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
