@@ -1,0 +1,40 @@
+{
+  "title": "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from ",
+  "description": "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from ",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "academic-stress",
+    "anxiety",
+    "cc0",
+    "dataset",
+    "depression",
+    "latin-america",
+    "mental-health",
+    "open-data",
+    "protective-variables",
+    "risk-factors"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalence-risk-",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
