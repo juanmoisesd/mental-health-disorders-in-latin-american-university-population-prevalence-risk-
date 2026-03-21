@@ -1,0 +1,11 @@
+academic-stress, anxiety, cc0, dataset, depression, latin-america, mental-health, open-data, protective-variables, risk-factors, university-students, zenodo
+open-data
+dataset
+research
+science
+FAIR
+reproducibility
+open-science
+academic
+citation
+DOI
