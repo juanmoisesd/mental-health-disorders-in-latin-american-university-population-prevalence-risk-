@@ -1,7 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this software/dataset, please cite it as below."
+message: "If you use this dataset, please cite it as below."
 type: dataset
 title: "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from "
+abstract: "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from "
 authors:
   - family-names: "de la Serna Tuya"
     given-names: "Juan Moisés"
@@ -10,7 +11,6 @@ authors:
     email: "juanmoises.delaserna@unir.net"
 repository-code: "https://github.com/juanmoisesd/mental-health-disorders-in-latin-american-university-population-prevalence-risk-"
 url: "https://juanmoisesd.github.io/mental-health-disorders-in-latin-american-university-population-prevalence-risk-/"
-abstract: "Statistical database on the prevalence of mental health disorders, risk factors, and protective variables in Latin American university populations. Compiled through systematic search using Perplexity AI, synthesizing indexed academic literature from "
 keywords:
   - open-data
   - dataset
@@ -19,6 +19,7 @@ keywords:
 license: CC0-1.0
 version: "1.0.0"
 date-released: "2026-03-20"
+doi: "10.5281/zenodo.19145316"
 references:
   - type: dataset
     title: "Open Research Collection — Juan Moisés de la Serna Tuya"
